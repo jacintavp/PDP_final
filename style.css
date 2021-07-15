@@ -30,7 +30,7 @@ body {
   font-family: 'Yanone Kaffeesatz', normal;
 font-family: 'Lato', normal;
     font-weight: 400;
-    background: var(--segundocolor);
+    background: var(--primercolor);
     color: var(--colorclaro);
 }
 
@@ -78,7 +78,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 --------------------------------------------------------------------------------------------- */
 
 header {
-    background-color: var(--segundocolor);
+    background-color: var(--primercolor);
     background-image: url("img/portada.jpg");
     background-position: center center;
     background-repeat: no-repeat;
@@ -126,12 +126,12 @@ aside {
 }
 
 footer {
-    color: var(--segundcolor);
+    color: var(--segundocolor);
 }
 
 footer a {
     text-decoration: none;
-    color: var(--segundcolor);
+    color: var(--segundocolor);
 }
 
 footer a:hover {

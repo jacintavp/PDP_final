@@ -17,10 +17,10 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 /* cambien aquí sus colores, necesitan definir tres */
 
 :root {
-    --primercolor: #db463e;
-    --segundocolor: #439962; /* menos luminoso y más saturado que el primero */
-    --tercercolor: #ffd525; /* más luminoso y menos saturado que el primero */
-    --colorclaro: rgba(255, 255, 255, 0.9);
+    --primercolor: #D0177C;
+    --segundocolor: #D9D7D6; /* menos luminoso y más saturado que el primero */
+    --tercercolor: #B2B2B2; /* más luminoso y menos saturado que el primero */
+    --colorclaro: rgba(229,225,230,0.9);
     --coloroscuro: rgba(0, 0, 0, 0.9);
 }
 
@@ -88,7 +88,7 @@ header {
 
 @media (min-width: 576px) {
     header {
-        background-image: url("img/portada..jpg");
+        background-image: url("img/portada.jpg");
     }
 }
 

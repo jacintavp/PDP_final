@@ -20,7 +20,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
     --primercolor: #D0177C;
     --segundocolor: #B2B2B2; /* menos luminoso y más saturado que el primero */
     --tercercolor: #D9D7D6; /* más luminoso y menos saturado que el primero */
-    --colorclaro: rgba(229,225,230,0.9);
+    --colorclaro: rgba(240,240,236,0.9);
     --coloroscuro: rgba(78, 75, 72, 0.9);
 }
 
@@ -28,7 +28,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 body {
     /* asignen aquí las tipografías y colores para todo texto */
   font-family: 'Yanone Kaffeesatz', normal;
-font-family: 'Lato', cursive;
+font-family: 'Lato', normal;
     font-weight: 400;
     background: var(--segundocolor);
     color: var(--colorclaro);

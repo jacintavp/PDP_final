@@ -116,7 +116,7 @@ main {
 
 @media (min-width: 780px) {
     main {
-        background-size: 80% auto;
+        background-size: 100% auto;
     }
 }
 

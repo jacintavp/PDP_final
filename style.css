@@ -114,9 +114,9 @@ main {
     background-size: 100% auto;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 780px) {
     main {
-        background-size: 100% auto;
+        background-size: 80% auto;
     }
 }
 
